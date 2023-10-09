@@ -4,8 +4,8 @@
 >Wersja testowa
 
 >[!IMPORTANT]
->Wersja testowa
->W celach edukacyjnych
+>[^1]Wersja testowa
+>[^2]W celach edukacyjnych
 
 >[!WARNING]
 >Wersja testowa
