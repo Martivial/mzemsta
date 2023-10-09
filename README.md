@@ -11,5 +11,3 @@
 >Wersja testowa
 
 >C# Files
-
-:EMOJICODE::+1:shipit:
