@@ -4,10 +4,12 @@
 >Wersja testowa
 
 >[!IMPORTANT]
->[^1]Wersja testowa
->[^2]W celach edukacyjnych
+> *Wersja testowa
+> -W celach edukacyjnych
 
 >[!WARNING]
 >Wersja testowa
 
 >C# Files
+
+:EMOJICODE:+1:shipit:
